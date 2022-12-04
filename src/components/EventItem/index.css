@@ -1,0 +1,79 @@
+/* Write your CSS here
+/* .event-list-items {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  width: 5%;
+  padding-bottom: 20px;
+} */
+
+/* .event-img {
+  width: 35%;
+} */
+/* .event-name {
+  font-size: 20px;
+  margin: 0;
+  font-family: 'roboto';
+  padding-top: 10px;
+}
+.event-location {
+  font-size: 12px;
+  margin: 0;
+  font-family: 'roboto';
+  padding-top: 5px;
+}
+.list-buttons {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  width: 100%;
+}
+
+.b {
+  width: 80%;
+}
+.event-img {
+  width: 40%;
+  height: 40%;
+}
+li {
+  padding-bottom: 20px;
+} */
+
+.list-item {
+  width: 48%;
+}
+
+.list-buttons {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 100%;
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.event-img {
+  width: 100%;
+}
+
+.event-name {
+  font-size: 20px;
+  margin: 0;
+  font-family: 'roboto';
+  padding-top: 10px;
+}
+
+.event-location {
+  font-size: 12px;
+  margin: 0;
+  font-family: 'roboto';
+  padding-top: 5px;
+}
